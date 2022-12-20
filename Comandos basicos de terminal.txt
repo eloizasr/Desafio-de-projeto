@@ -1,0 +1,10 @@
+Comandos basicos para usar no terminal
+Cd - change directory, mudar diretório atual
+Dir - Exibir arquivos/diretórios do diretório atual
+Mkdir - Criar uma pasta 
+del - deletar um arquivo
+rmdir - deletar uma pasta vazia 
+cls - limpar terminal
+ls - listar diretorios
+cd .. - Voltar 
+
